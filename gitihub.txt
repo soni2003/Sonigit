@@ -1,1 +1,2 @@
 hi this is my first git file.
+i want to learn git and github
