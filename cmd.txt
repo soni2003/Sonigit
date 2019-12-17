@@ -1,0 +1,86 @@
+    1  whoami
+    2  pwd
+    3  su 
+    4  wget -q -o -https://jenkins.io/debian/jenkins-ci.org.key |sudo apt-key add -
+    5  wget-q-o -https://jenkins.io/debian/jenkins-ci.org.key |sudo apt-key add -
+    6  wget -q-o -https://pkg.jenkins.io/debian/jenkins-ci.org.key |sudo apt-key add -
+    7  wget -q -o -https://pkg.jenkins.io/debian/jenkins-ci.org.key |sudo apt-key add -
+    8  wget -q -o - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -
+    9  wget-q -o - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -
+   10  wget -q -o - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -
+   11  wget -q -o - https://pkg.jenkins.io/debian/jenkins-ci.org.key 
+   12  sudo apt-key add -
+   13  pwd
+   14  cd home
+   15  ls
+   16  cd Downloads
+   17  java -jar jenkins.war
+   18  java -jar jenkis.war --httpPort=8181
+   19  ls
+   20  cd Downloads/
+   21  java -jar jenkis.war --httpPort=8181
+   22  java -jar jenkins.war --httpPort=8181
+   23  pwd
+   24  java -jar jenkins.war httpPort=8181
+   25  pwd
+   26  cd Downloads
+   27  java -jar jenkins.war httpPort=8181
+   28  java -jar jenkins.war httpPort=8182
+   29  java -jar jenkins.war --httpPort=8181
+   30  pwd
+   31  git clone https://github.com/umeshJavaMentor/cgi.git
+   32  ls -l
+   33  git clone https://github.com/umeshJavaMentor/cgi.git
+   34  git clone https://github.com/soni2003/soni/cgi.git
+   35  git clone https://github.com/soni2003/sonigit.git
+   36  ls
+   37  cd cgi
+   38  ls
+   39  cp pom.xml /home/ubuntu
+   40  cp /src/ /home/ubuntu
+   41  cp /target/ /home/ubuntu
+   42  git remote -v
+   43  pwd
+   44  cd ls
+   45  pwd
+   46  cd ..
+   47  ls
+   48  cd cgi
+   49  ls
+   50  cd ..
+   51  git remote set-url origin https://github.com/soni2003/CGI-Test.git
+   52  pwd
+   53  git remote set-url origin https://github.com/soni2003/CGI-Test.git
+   54  clea
+   55  clear
+   56  ls
+   57  cd cgi
+   58  clear
+   59  git remote -v
+   60  clear
+   61  git remote set-url origin https://github.com/soni2003/CGI-Test.git
+   62  git remote -v
+   63  ls -l
+   64  git push origin master
+   65  ls
+   66  git status
+   67  git branch
+   68  vim jen.txt
+   69  git status
+   70  git add .
+   71  git status
+   72  git commit -a -m "jenfile"
+   73  git status
+   74  ls
+   75  cd ..
+   76  cd 
+   77  ls -l
+   78  pwd
+   79  ls -lart
+   80  cd .config
+   81  ls
+   82  cd ..
+   83  history
+   84  pwd
+   85  cd sonigit
+   86  history >cmd.txt
